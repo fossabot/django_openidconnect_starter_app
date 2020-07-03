@@ -1,5 +1,6 @@
 # Django OpenID Connect with Ultra Auth Example
 [![Build Status](https://travis-ci.org/UltraAuth/django_openidconnect_starter_app.svg?branch=master)](https://travis-ci.org/UltraAuth/django_openidconnect_starter_app) [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UltraAuth/django_openidconnect_starter_app/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fultraauth%2Fdjango_openidconnect_starter_app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fultraauth%2Fdjango_openidconnect_starter_app?ref=badge_shield)
 --------
 
 - This is a sample Django 2.0 app that uses OpenID Connect with the Ultra Auth server.
@@ -93,3 +94,7 @@ docker-compose up --build
 ```bash
 docker-compose up --build
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fultraauth%2Fdjango_openidconnect_starter_app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fultraauth%2Fdjango_openidconnect_starter_app?ref=badge_large)
